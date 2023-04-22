@@ -11,7 +11,6 @@ router.get("/generate/:subject/:pregunta", (req, res) => {
   generator
     .askMeAnything(subject, pregunta)
     .then((respuesta) => {
-      console.log(respuesta);
       return res.status(400).send(respuesta);
     })
     .catch((error) => {
