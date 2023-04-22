@@ -131,6 +131,103 @@ const contenidos = {
     - Está prohibido hacerse pasar por un miembro del staff. 
     - No se pueden vender donaciones entre usuarios.
     - No está permitido el uso de aplicaciones externas que den ventajas.`,
+  noPixel: `Normas generales
+
+    Mínimo de edad requerida para entrar: 18+
+    Un micrófono funcional, con un mínimo de calidad (que se entienda).
+    Tu personaje tiene que tener un nombre realista y no debe incumplir los términos y condiciones.
+    Los jugadores deben cumplir la normativa del ToS de Twitch, haz click aquí para verlos
+    Ser tóxico en cualquier plataforma (esto incluye Twitch, Reddit, Discord, etc) puede hacer que se te expulse de la comunidad en cualquier momento. [A o B o C o D dependiendo de la situación] 
+    Quedarse AFK varias veces sin motivo está prohibido. (Ver la normativa “AFK Timer para más información)
+    
+    Reporte de jugadores y baneos
+    
+    Para reportar a algún jugador deberéis de abrir un ticket en el Discord oficial de NoPixel España. En este ticket deberéis de poner la ID de la persona que creéis que ha incumplido cualquier norma. 
+    Para facilitar el trabajo del staff, necesitaremos como hemos mencionado la ID del jugador, para conseguirla, deberás de dejar presionada la U y hacer foto mientras se ve la steam ID a la derecha (se puede bajar la lista con las flechitas del teclado) o escribiendo un /admin con un mensaje corto del problema.
+    
+    In-Game Information
+    No salirte del personaje nunca [A]:
+    Incluso si la persona que tienes delante está incumpliendo la normativa, tú no debes salirte nunca ni decirle a él/ella que está incumpliendo la normativa
+    No hagas acciones que provoquen a otras personas a romper el roleplay.
+    Uso del /OOC [A]:
+    El chat OOC está restringido para usarlo únicamente si hay problemas técnicos.
+    Reinicio de servidor [A]:
+    El roleplay nunca deberá de ser parado o tomado menos en serio antes de un reinicio; debe continuar normal.
+    Loot boxing [A]:
+    Robar a un jugador sin tener un rol muy desarrollado con la persona a la que quieres robar está prohibido. 
+    Metagaming [D]:
+    Usar cualquier información que no conozca tu personaje está completamente prohibido. Por ejemplo, usar información porque tú has visto un stream en Twitch o derivados. 
+    Powergaming/Fail RP [A o B dependiendo de la situación]:
+    Usar medios que no son en realidad in-game para ganar ventaja o de manera sensata.
+    Hablar/Organizar/Llamar cuando estás derribado. Lo único que puede ser roleado son conversaciones roleando los daños, no dando información o derivados.
+    Aprovecharse de mecánicas del juego para conseguir dinero más rápido sin respetar el roleplay.
+    No usar “meter persona en el vehículo” sin tener a la persona en “escoltar”.
+    El uso del /me y las escenas se usan para ayudar a entender lo que está pasando alrededor del entorno (NO existe el /do).
+    Conducir a velocidades no realistas sin tener una razón con el personaje una y otra vez.
+    Trabajadores del gobierno que no obedezcan las leyes de circulación.
+    Cuando estás derribado o incapacitado no tienes acceso a tu inventario; lo que significa que no puedes acceder ni tirar objetos al suelo. (Para más información ver normativa de “Acceso al inventario cuando estás derribado'').
+    Si estás derribado, estás derribado; incluso si eres revivido vía “grandma” o EMS, no puedes volver al escenario original.
+    Campear zonas de spawn donde requiere al usuario “pantalla negra de carga” está prohibida (Para más información revisar la normativa de spawnear en localizaciones).
+    Random Death Match (RDM) & Vehicle Death Match (VDM) [B o C dependiendo de la situación]:
+    Atacar a otro jugador/grupo sin ninguna historia/roleplay previa.
+    Atacar a otro jugador/grupo usando un vehículo con intención de matar/noquear sin ninguna razón válida.
+    Chocar a más de 80mph no está permitido.
+    New Life Rule (NLR) [B]:
+    Si eres derribado y respawneas al hospital tu personaje olvida inmediatamente todo lo sucedido mientras estabas derribado en el escenario. No deberás de darle a la E para respawnear si has sido avisado de que la policía o la EMS está en camino hacia ti. 
+    Debes intentar contactar con los sanitarios mientras estás incapacitado.
+    Múltiples personajes (del mismo jugador) en un grupo/banda) [B]:
+    Esto no está permitido. En general, deberías de intentar crear personajes que no estén involucrados en la misma historia/escenarios y se puedan usar para pushear sus objetivos.
+    Not Valuing Life (NVL) [[A]]
+    No rolear miedo por tu vida cuando estás siendo amenazado con armas o recibiendo daño severo de otra manera.
+    Tener tiroteos no espontáneos en la comisaría u hospital no está permitido.
+    Antagonizar a bandas/policías o personas armadas sin tener razones con el personaje.
+    Los jugadores no deberían de entrar en conflictos en situaciones peligrosas o tiroteos entre 2 grupos o entre un grupo y la policía. 
+    Normativa criminal:
+    Los criminales con intención de participar en cualquier acto ilegal que son orientados al PVP están limitados a 6 jugadores como máximo a la vez.
+    Un ejemplo de donde se pueden ser más de 6: Si un grupo de 6 personas realizan una acción hostil a un grupo de más de 6, todos los que se están defendiendo pueden participar. 
+    Transmitir información entre personajes (radios, cámaras, etc) cuentan como parte del escenario.
+    Escoger disparar antes que rolear no está aceptado. 
+    Cuando cualquier persona/s quedan bajo custodia policial, y un segundo grupo de 6 es formado para asaltar a la prisión o al convoy desde comisaría a federal, el segundo grupo no tiene permitido intervenir hasta que el convoy comienza la ruta. Hacer este asalto con armas pequeñas o sin un plan pensado se considera NVL.
+    Está permitido que los jugadores puedan introducir objetos dentro de la prisión, no obstante, es requerido tener una lógica en ese roleplay y una razón de peso para arriesgar sus vidas.
+    No está permitido reabastecerse durante un robo una vez la policía llega.
+    No está permitido interferir con un grupo una vez que el robo ha comenzado. 
+    Si una persona o grupo de personas son arrestados y están siendo procesados (por ejemplo están en transporte hacia comisaría o ya están allí) y el servidor se reinicia; están obligados a volver a comisaría para continuar el roleplay después del restart.
+    
+    
+    Normativa de bandas y guías de información básicas
+    Sprays, zonas de banda y ataque.
+    1.- ¿Qué es considerado territorio de banda? Cuando pones un grafiti en ese área es considerado territorio de banda.
+    2.- ¿Quién y cuántos pueden defender mi zona cuando es atacada? El número que pueden defender como máximo son 15, no obstante, esos 15 deben de estar en la lista oficial de la banda.
+    3.- ¿Cuántos usuarios pueden atacar a la zona de otra banda? El número que puede atacar son 6; haciendo referencia a la normativa de 6 personas en roles agresivos.
+    4.- ¿Cómo se empieza una guerra de territorios? Para empezar una guerra entre bandas debe haber un rol previo largo, esto significa que por el simple y mero hecho de que “puedo” wipear un spray, no significa que debas hacerlo sin una razón de peso (ejemplo: coste/beneficio). Se ha visto el caso de que una banda “baitea” a otra banda, para iniciar un tiroteo, les wipean a todos, y luego van a limpiar el grafiti; no obstante, la acción de wipear el grafiti debe de ser considerada la primera acción de la guerra después del RP; no se puede disparar, disparar, disparar; wipear la banda; y entonces limpiar el grafiti. Si por lo que sea, entras en un tiroteo y wipeas la banda, no tienes que ir a rushear la limpia del grafiti.
+    
+    
+    Decencia básica y respeto
+    
+    Nuestro objetivo es promover la experiencia del roleplay libre de restricciones, no está permitido, bajo ningún concepto, insultar, difamar o derivados a una persona por su sexo, orientación sexual, edad, nacionalidad etc. 
+    
+    Hay que luchar para crear un entorno agradable para todos; una comunidad que promueve una calurosa bienvenida a todos los miembros; una comunidad en la cual la gente se sienta orgullosa de ser parte de ella.
+    
+    NoPixel se toma muy en serio cualquier acto despectivo que un usuario realice ante otro.
+    
+    Estamos aquí para disfrutar y desconectar de nuestras obligaciones del mundo real y poder crear historias increíbles que podamos disfrutar todos juntos.
+    
+    En términos sencillos, respetaros unos a otros; hay que tener una justificación para tus actos. Decir simplemente “mi personaje es así” no está considerado como una respuesta válida.
+    
+    El staff está siempre aquí para ayudar, sin importar si crees que es pequeño o grande el problema, si tienes duda, abre ticket y pregunta sin problema.
+    
+    Todos juntos formamos NoPixel España.
+    
+    Información de las letras de sanción
+    Recalcar que esto es solo una base, cada situación es diferente y se puede tratar como tal.
+
+    Ban de 1 día y 10 warning points
+    Ban de 3 días y 10 warning points
+    Ban de 7 días y 25 warning points o 14 días de ban y 25 warning points (dependiendo de la situación)
+    Permaban (se puede solicitar apelación 30 días después) y 30 warning points.
+
+    Los warning points caducarán en 60 días.
+    `,
 };
 
 module.exports = contenidos;

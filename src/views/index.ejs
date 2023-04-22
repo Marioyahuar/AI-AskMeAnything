@@ -8,9 +8,16 @@
     <div class="container">
       <div class="pickScreen">
         <h1>Selecciona el tema:</h1>
-        <button onclick="pickSubject('basicos')">Básicos</button>
-        <button onclick="pickSubject('delictivos')">Delictivos</button>
-        <button onclick="pickSubject('sanciones')">Sanciones</button>
+        <button style="display: none" onclick="pickSubject('basicos')">
+          Básicos
+        </button>
+        <button style="display: none" onclick="pickSubject('delictivos')">
+          Delictivos
+        </button>
+        <button style="display: none" onclick="pickSubject('sanciones')">
+          Sanciones
+        </button>
+        <button onclick="pickSubject('noPixel')">nopixel</button>
       </div>
       <div class="questionScreen">
         <button class="back" onclick="regresar()">&lt;</button>
