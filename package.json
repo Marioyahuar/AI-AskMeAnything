@@ -1,0 +1,23 @@
+{
+  "name": "askmeanything",
+  "version": "1.0.0",
+  "description": "IA for ask any kind of question about a topic ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marioyahuar/AI-AskMeAnything.git"
+  },
+  "author": "Mario Yahuarcani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Marioyahuar/AI-AskMeAnything/issues"
+  },
+  "homepage": "https://github.com/Marioyahuar/AI-AskMeAnything#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "openai": "^3.2.1"
+  }
+}
