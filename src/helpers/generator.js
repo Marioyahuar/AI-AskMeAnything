@@ -10,10 +10,10 @@ const configuration = new Configuration({
 
 const openai = new OpenAIApi(configuration);
 
-async function askMeAnything(pregunta) {
+async function askMeAnything(subject, pregunta) {
   const prompt = `En base exclusivamente a la información que te voy a proporcionar, responda la siguiente pregunta: ${pregunta}.
   Información:
-  "${contenidos.generales}"`;
+  "${contenidos[subject]}"`;
   console.log(prompt);
   const response = await openai.createCompletion({
     model: "text-davinci-003",

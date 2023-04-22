@@ -1,15 +1,33 @@
 <html>
   <head>
+    <title>Ask Me Anything</title>
     <script src="/main.js"></script>
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    Pregúntame lo que quieras.
-    <input type="text" id="pregunta" placeholder="Enter subject" />
-    <button onclick="fetchRespuesta(document.getElementById('pregunta').value)">
-      Preguntar
-    </button>
-    <br /><br />
-    <div id="respuesta">Espera, obtendrás tu respuesta aquí</div>
-    <br /><br />
+    <div class="container">
+      <div class="pickScreen">
+        <h1>Selecciona el tema:</h1>
+        <button onclick="pickSubject('basicos')">Básicos</button>
+        <button onclick="pickSubject('delictivos')">Delictivos</button>
+        <button onclick="pickSubject('sanciones')">Sanciones</button>
+      </div>
+      <div class="questionScreen">
+        <button class="back" onclick="regresar()">&lt;</button>
+        <h1>¡Hazme una pregunta!</h1>
+        <input
+          type="text"
+          id="questionInput"
+          placeholder="Ingresa tu pregunta aquí"
+        />
+        <button
+          onclick="fetchRespuesta(document.getElementById('questionInput').value)"
+        >
+          Responder
+        </button>
+        <div id="answerOutput"></div>
+      </div>
+      <img class="logo" src="logo.png" alt="Logo de la web" />
+    </div>
   </body>
 </html>

@@ -6,10 +6,10 @@ router.get("/", (req, res) => {
   res.render("index");
 });
 
-router.get("/generate/:pregunta", (req, res) => {
-  const pregunta = req.params.pregunta;
+router.get("/generate/:subject/:pregunta", (req, res) => {
+  const { subject, pregunta } = req.params;
   generator
-    .askMeAnything(pregunta)
+    .askMeAnything(subject, pregunta)
     .then((respuesta) => {
       console.log(respuesta);
       return res.status(400).send(respuesta);
