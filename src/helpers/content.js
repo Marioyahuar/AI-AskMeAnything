@@ -228,6 +228,93 @@ const contenidos = {
 
     Los warning points caducarán en 60 días.
     `,
+  midnightCity: `Bienvenid@ a la Comunidad
+  Conceptos básicos
+  El roleplay es un mundo lleno de muchas aventuras, donde tu eliges lo que quieres, puedes hacer realidad tus sueños, podrás tener el trabajo que siempre soñaste, en MIDNIGHT CITY podrás disfrutar de un ambiente sano y divertido.
+  De parte de los creadores y el staff del server queremos darte la bienvenida a nuestra comunidad, esperamos disfrutes de todo lo que hay en el server y tengas una estadía amena. 
+  Dentro del servidor tendrás a disposición diferentes herramientas que podrán ser utilizadas para enriquecer cada uno de los roles a realizar.
+  El server esta ambientado a un simulador de vida, en donde tendrás que velar por mantener a tu personaje con vida, siempre teniendo en cuenta los detalles mas lógicos, como lo es la comida, el agua, el trabajo… Etc….
+  Todo persona nuevo deberá tener claro cual es la historia de su personaje para así poder fluir mejor el rol, adicional deberá actual acomple a su personaje, en este documento encontraras datos básicos sobre el rol y su manejo, sin embargo cualquier duda o sugerencia la pueden enviar en los apartados correspondientes.
+  Conceptos básicos de rol
+  - Nuestro personaje debe cumplir con el formato de Nombre y Apellido, no se podrán usar nombres de famosos, ni los que tengan un fin divertido y troll.
+  - Cada personaje deberá actuar acorde a su edad, su personalidad, su historia y demás puntos que lo caractericen.
+  1. In Character (IC)
+  Todo aquello que ocurre a manos de nuestro personaje o en el entorno de la ciudad donde se encuentra, dentro del servidor del juego.
+  2. Out Of Character (OOC)
+  Todas las acciones que ocurren cuando no estamos actuando con nuestros personajes.
+  3. MetaGaming (MG)
+  El MG se produce cuando se usa cualquier tipo de información de fuera del juego dentro del juego, sea de forma intencionada o por error para obtener beneficio. Está prohibido y conlleva una sanción.
+  4. Rol de entorno (RDE)
+  Es una herramienta para contextualizar el rol que estamos realizando dentro del servidor con respecto al lugar y a la cantidad de gente que habría en esa zona en una ciudad real, y adaptar nuestra actuación acorde a ello. Tomar en cuenta que: 
+  - Puede variar donde nos encontremos, no es el mismo entorno de la comisaría que en barrios bajos. 
+  - La ciudad dentro del juego simula la vida real, es decir, que habrá ciudadanos y/o cámaras de vigilancia viendo todo lo que hacemos en sitios públicos.
+  Uso Obligatorio
+  - /me: Se utiliza para describir acciones que no tienen animación dentro del juego se deberán escribir en tercera persona.
+  Ejemplo: /me Extiende su mano hacia su bolsillo y coge su cartera, acto seguido saca un billete y se lo entrega al mesero.
+  - /do: Se utiliza para describir el entorno, npcs, descripción de nuestro personaje, etc. se deberán escribir en tercera persona.
+  - Esta completamente prohibido mentir. Esta prohíbo usar el /do de forma forzada.
+  - No se puede usar el /do para expresar sentimientos o pensamientos.
+  Ejemplo: /do se podría apreciar en la cara de Carl una cicatriz que llegaría desde debajo del ojo hasta encima de la boca.
+  5. PlayerKill (PK)
+  Muerte no definitiva de un personaje, ósea queda inconsciente. Conlleva la pérdida de memoria de todo lo sucedido en ese rol, y actuar en consecuencia a tu estado físico al despertar, no puedes apretar de la E hasta el rol haber terminado por completo.
+  El omitir el actuar correctamente y por ejemplo salir corriendo del Hospital diciendo que recuerda todo; será motivo de una sanción administrativa.
+  6. RevengeKill (RK)
+  Cuando un jugador hace caso omiso al rol de pérdida de memoria explicado anteriormente (PK) y acude al lugar donde ha muerto a tomar represalias contra su asesino. Está prohibido y conlleva una sanción administrativa.
+  7. PlayerKillTotal (PKT)
+  El estado de inconsciencia extendido, haciendo que la mente se resetee, por Ejemplo: o PKT se aplica usualmente cuando te echan de una fracción o familia y para hacerlo te asesinan, aunque también puede ser aplicado para la perdida de conocimiento de grandes roles, debido a que la mayoría de tus roles tienen una conexión con dicha facción o familia, es necesario que tu personaje pierda el conocimientos de estos roles para continuar, si recibes un PKT, no podrá contar los secretos de la familia sin que esto sea considerado MG. Tampoco podrás vengarte de la misma, y en lo posible deberás de tratar de no interactuar con
+  ella. Esta norma está diseñada más que nada para defender a las familias que deciden matar a miembros fastidiosos o molestos, los cuales ni dudarían en dar toda la información de la familia si los echan de la misma.
+  8. CharacterKill (CK)
+  Es la muerte definitiva de su personaje, la cual conlleva la perdida de todos los bienes y posesiones.
+  Tipos de CK:
+  - CK Voluntario: Este se puede llevar a cabo cuando quieres empezar con una historia nueva y como un personaje diferente, conlleva a la perdida de todos los bienes. Como, por ejemplo: Si te decides suicidar tirándome voluntariamente de un puente, la administración podrá realizar un CK. (Entre CK y CK voluntario tendrá que pasar un mes y medio.)
+  - CK Policial por Multas: Si el detenido tiene en el momento que llega a comisaria acumulado al menos $75.000 o más que esto en multas, inmediatamente pasará a la cadena perpetua revisable, si en 24h el sujeto no paga el 50% de lo adeudado al
+  estado, se procederá con la cadena pe petua total. Si el detenido, en el momento que llega a comisaría, tiene menos de 75k en multas y cuando le pones las multas, la cantidad asciende a más de 100k. El detenido tiene 24h para pagar el 50% de la deuda para liberarse de la cadena perpetua, si en 24h el sujeto no paga el porcentaje requerido, se procederá con la cadena perpetua total. Cada ciudadano tendrá derecho a recurrir este procedimiento solo 1 vez en su vida
+  - CK por no valorar vida: La administración puede llegar a decidir que un rol acabe con un CK si se presencia y se considera que no se está valorando vida, aunque no haya Ticket de CK previo aprobado o sanciones previas por ello. En caso de que un rol no se esté valorando vida, el usuario deberá pedir ayuda por medio de /report para que un administrador revise el rol, se deberá continuar el rol y no parar en ningún momento. En caso de que se lleve un CK no aceptado o no se esté de acuerdo, una vez acabado el rol se entrará a Sala de Soporte y se hablará con los encargados.
+  - CK Administrativo: La administración podrá realizar un CK a cualquier persona que considere oportuno siempre y cuando haya motivos de peso para que se lleve a cabo.
+  9. PowerGaming (PG)
+  PG es poder hacer cosas que en la vida real no podrían hacerse, porque no tienen sentido ni lógica o por ser imposibles que aquí sí se pueden hacer por ser un juego.
+  - También engloba el forzar el rol del otro jugador sin darle la posibilidad a reaccionar
+  tras una acción tuya. Ejemplos:
+  - No se podrá usar un vehículo con 2 neumáticos o más ponchados.
+  - No se podrá reconocer un usuario con una mascará o una bandana.
+  - No se podrá reconocer a alguien por el acento o la voz.
+  - No se podrá meter con alguien cargado en un vehículo de 2 puertas.
+  10. DeathMatch (DM)
+  Jugador que se dedica a agredir o matar al resto de jugadores sin motivo aparente o previo. Esta prohibido y conlleva una sanción administrativa.
+  11. Evadir un rol
+  Nunca se podrá evadir un rol. Hacerlo conlleva sanción. Si se ha de pedir una ID para aclarar algo sobre el rol se pedirá al finalizar este.
+  Ejemplo:
+  Un policía te está cachando y si no coopera con la información requerida está evadiendo un rol.
+  - Evitar rolear de forma intencionada con alguien.
+  - Quedarse AFK (Away From Keyboard)
+  - Desconectarse para evitar un rol.
+  12. Fairplay
+  El fairplay es jugar limpio, de forma justa, equilibrada y colaborativa dentro del juego. Buscar huecos en normativa, mecánicas de juego, reglamentaciones IC y similares con el objetivo de ganar e imponer la propia voluntad sobre los demás incumple el Fairplay y será sancionado severamente.
+  El objetivo del RP es rolear y como tal lo que se busca en el servidor es interactuar roleando con el resto de las personas, no tratando de ganar cada situación de forma OOC. Es evidente que IC se quiere ganar, pero el buscar todos los métodos posibles OOC omitiendo el Fairplay será motivo de sanción.
+  13. Vehicle DeathMatch (VDM)
+  Es la acción de agredir o matar a otro usuario utilizando un vehículo sin motivo aparente
+  14. Bunny Jump(JB)
+  Se produce cuando se realizan brincos continuos en el juego con el objetivo de llegar más rápido o subir superficies que el propio juego no deja. Está prohibido y es sancionable.
+  15. Forzar Rol
+  Se considera forzar un Rol cuando quieres hacer un rol con alguien que casi ni conoces, sin que encaje con el resto de la historia
+  16. Camping
+  Espera en algún sitio mucho tiempo para realizar acción en contra de algún usuario.
+  17. Zona seguras
+  En la ciudad hay zonas seguras donde queda prohibido robos, secuestros, peleas y otros actos ilícitos.
+  18. Zonas Calientes
+  Las zonas calientes son las sedes de mafia, barrios de bandas con rol de entorno, zonas para rol de actos delictivos o compra y venta de cosas ilegales. Si puedes ver dicha zona y los jugadores que están en ella se considera que estas dentro de un punto caliente.
+  - En los puntos calientes:
+  - Se puede iniciar Rol Agresivo sin necesidad de rol previo o policía en servicio
+  - Todo jugador que muera en dichas zonas siempre llevará un PK y no podrá ser reanimado por un EMS, por lo tanto, no se puede usar el /auxilio.
+  - No se puede solicitar ningún tipo información, así como sacar cedula o foto de las caras. Excepto que dichas personas se rindan sin dar pelea y sigan vivas.
+  19. Vestimenta
+  Se puede identificar a la gente por su ropa siempre y cuando sean casos muy evidentes.
+  20. Vehículos de EMS, Taxi y Policía
+  El uso de alguno de estos por parte de cualquier ciudadano no está permitido del todo en nuestra normativa. El uso de vehículo policial estará permitido de ser usado en las siguientes razones:
+  - Cuando no tengas opción de escapar y usándolo como medio de huida. Debes de tener en cuenta que el vehículo tiene un localizador que indica su ubicación GPS (Deberás utilizar el /entorno correspondiente)
+  21. Llamada a los servicios públicos
+  La llamadas de texto falsos a los servicios públicos (Policía, EMS, Mecánicos, Taxistas,… ) quedan totalmente prohibidos y se podrán ser sancionados. Todas las llamadas o mensajes de texto deben contener motivo del aviso pudiendo ser ignorados aquellos que no contengan información o esta sea insuficiente (ubicación, hechos, …)
+  Están prohibidos los mensajes sin sentido u ofensivos a los trabajos de oposición o locales por puro aburrimiento. Esto podrá llevar a una sanción administrativa.`,
 };
 
 module.exports = contenidos;
